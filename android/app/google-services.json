@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568535607274",
+    "project_id": "batme-wallet",
+    "storage_bucket": "batme-wallet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568535607274:android:d69a46ed40f60420d17493",
+        "android_client_info": {
+          "package_name": "com.betapp.andriod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMMltGUfRdtgJHCwtx-3z2s-T-8YPRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568535607274:android:d7fbc0540c2712f7d17493",
+        "android_client_info": {
+          "package_name": "com.example.betappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMMltGUfRdtgJHCwtx-3z2s-T-8YPRt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
